@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Languages and tools I use:
+###
 
 <h2><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50px" /> Java</h2> <br />
 <h2><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50px" /> PHP</h2> <br />
